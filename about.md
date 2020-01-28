@@ -8,5 +8,10 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+#### Anastasia Riawan Soenjoto
+<i><b> Senior</b> </i>
+<br>
+I am a Computer Science major graduating this may. I am interested in iOS development and will be working full time as an iOS engineer after I graduate.
+
+
 
