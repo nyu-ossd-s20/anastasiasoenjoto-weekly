@@ -3,10 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Some information about you!
-
-### More Information
+## About
 
 #### Anastasia Riawan Soenjoto
 <i><b> Senior</b> </i>
