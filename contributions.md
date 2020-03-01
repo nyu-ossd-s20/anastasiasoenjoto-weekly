@@ -24,3 +24,5 @@ Replace the first row with your own contribution.
 |   Feb 18  |  https://www.openstreetmap.org/changeset/81198944#map=19/-6.19330/106.82381   |  OpenStreetMap   | Added missing name to Hotel in Indonesia      |
 |   Feb 29  |  https://www.openstreetmap.org/changeset/81634294#map=19/-6.22595/106.79782   |   OpenStreetMap    |   Added Cork & Screw Country Club (Senayan - Jakarta, Indonesia)   |
 |   Feb 29  |  https://www.openstreetmap.org/changeset/81634381   |   OpenStreetMap    |   Added restaurants (Senayan - Jakarta, Indonesia)   |
+|   Feb 29  | https://www.openstreetmap.org/changeset/81634434#map=18/40.72809/-73.98495   |   OpenStreetMap    |   Added restaurants in 1st avenue    |
+
