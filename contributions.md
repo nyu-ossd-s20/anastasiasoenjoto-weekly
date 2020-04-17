@@ -34,7 +34,6 @@ Replace the first row with your own contribution.
 |   April 16  | https://www.openstreetmap.org/changeset/83675066  |   OpenStreetMap    |   Added restaurants near PIK area in my hometown   |
 |   April 16  | https://www.openstreetmap.org/changeset/83675129  |   OpenStreetMap    |   Named a building   |
 |   April 16  | https://www.openstreetmap.org/changeset/83675206  |   OpenStreetMap    |   Add restaurants    |
-
 |   April 16  | https://www.openstreetmap.org/changeset/83675378  |   OpenStreetMap    |   Add restaurants in hospital in Jakarta   |
 
 
