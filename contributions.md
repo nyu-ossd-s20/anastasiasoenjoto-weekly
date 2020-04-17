@@ -27,4 +27,14 @@ Replace the first row with your own contribution.
 |   Feb 29  | https://www.openstreetmap.org/changeset/81634434#map=18/40.72809/-73.98495   |   OpenStreetMap    |   Added restaurants in 1st avenue    |
 |   April 13  |  https://www.openstreetmap.org/changeset/83494174   |   OpenStreetMap    |   Added cafes and restaurants in koreatown los angeles  |
 |   April 13  | https://www.openstreetmap.org/changeset/83493708  |   OpenStreetMap    |   Added apartment buildings near koreatown los angeles   |
+|   April 16  | https://www.openstreetmap.org/changeset/83674756  |   OpenStreetMap    |   Added restaurants near koreatown los angeles   |
+|   April 16  | https://www.openstreetmap.org/changeset/83674857  |   OpenStreetMap    |   Added restaurants in PIK Area Jakarta   |
+|   April 16  | https://www.openstreetmap.org/changeset/83674940  |   OpenStreetMap    |   Added stores in PIK Avenue Jakarta   |
+|   April 16  | https://www.openstreetmap.org/changeset/83674995  |   OpenStreetMap    |   Added restaurants and cafe in PIK Area Jakarta   |
+|   April 16  | https://www.openstreetmap.org/changeset/83675066  |   OpenStreetMap    |   Added restaurants near PIK area in my hometown   |
+|   April 16  | https://www.openstreetmap.org/changeset/83675129  |   OpenStreetMap    |   Named a building   |
+|   April 16  | https://www.openstreetmap.org/changeset/83675206  |   OpenStreetMap    |   Add restaurants    |
+
+|   April 16  | https://www.openstreetmap.org/changeset/83675378  |   OpenStreetMap    |   Add restaurants in hospital in Jakarta   |
+
 
