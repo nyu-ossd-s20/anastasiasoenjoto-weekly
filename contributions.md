@@ -35,5 +35,15 @@ Replace the first row with your own contribution.
 |   April 16  | https://www.openstreetmap.org/changeset/83675129  |   OpenStreetMap    |   Named a building   |
 |   April 16  | https://www.openstreetmap.org/changeset/83675206  |   OpenStreetMap    |   Add restaurants    |
 |   April 16  | https://www.openstreetmap.org/changeset/83675378  |   OpenStreetMap    |   Add restaurants in hospital in Jakarta   |
+|   May 09  | https://www.openstreetmap.org/changeset/84959053  |   OpenStreetMap    |   Add buildings in downtown SF  |
+|   May 09  | https://www.openstreetmap.org/changeset/84959413  |   OpenStreetMap    |   Add pub in SF  |
+|   May 09  | https://www.openstreetmap.org/changeset/84959429  |   OpenStreetMap    |   Add restaurant in SF  |
+|   May 09  | https://www.openstreetmap.org/changeset/84959448  |   OpenStreetMap    |   Add restaurant in SF  |
+|   May 09  | https://www.openstreetmap.org/changeset/84959465 |   OpenStreetMap    |   Add cafe in SF  |
+|   May 09  | https://www.openstreetmap.org/changeset/84959478 |   OpenStreetMap    |   Add acai bowl restaurant in SF  |
+|   May 09  | https://www.openstreetmap.org/changeset/84959489  |   OpenStreetMap    |   Add gym in SF  |
+|   May 09  | https://www.openstreetmap.org/changeset/84959502 |   OpenStreetMap    |   Add apartment in SF  |
+
+
 
 
